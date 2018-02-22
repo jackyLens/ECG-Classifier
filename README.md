@@ -1,5 +1,7 @@
 # ECG-Classifier
 
+![](https://github.com/CyC2018/ECG-Classifier/blob/master/Pics/1.gif)
+
 The six electrocardiogram (ecg) waveforms that are important in physiology are classified by this classifier. 
 
 - normal beat
