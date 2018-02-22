@@ -8,8 +8,6 @@ The six electrocardiogram (ecg) waveforms that are important in physiology are c
 - atrial premature beat
 - paced beat
 - premature ventricular beat
-- paced beat
-- premature ventricular beat
 - left bundle branch block beat
 - right bundle branch block beat
 
