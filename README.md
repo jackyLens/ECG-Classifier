@@ -2,16 +2,16 @@
 
 ![](https://github.com/CyC2018/ECG-Classifier/blob/master/Pics/1.gif)
 
-The six electrocardiogram (ecg) waveforms that are important in physiology are classified by this classifier. 
+The six electrocardiogram (ecg) waveforms was classified by this classifier. 
 
-- normal beat
-- atrial premature beat
-- paced beat
-- premature ventricular beat
-- left bundle branch block beat
-- right bundle branch block beat
+- Normal Beat
+- Atrial Premature Beat
+- Paced Beat
+- Premature Ventricular Beat
+- Left Bundle Branch Block Beat
+- Right Bundle Branch Block Beat
 
-## Innovative Pionts
+## Innovative Points
 
 The electrocardiogram is very complicated on the waveform, and it is easy to be disturbed by the outside environment which results in the poor accuracy rate of wave positioning. However, the current classification method needs to correctly detect the position of P wave, Q wave, R wave, S wave and T wave, then extract the spacing between wave and wave and the amplitude of the wave as characteristics. These methods are complex and generally not accurate.
 
